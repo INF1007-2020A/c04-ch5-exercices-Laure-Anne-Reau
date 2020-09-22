@@ -23,7 +23,7 @@ def use_prefixes() -> List[str]:
 def prime_integer_summation() -> int:
     #somme
     for i in range(2, 100, 1) :
-        for j in range(2, i, ) :
+        for j in range(2, i, 1) :
 
     
     return 0
