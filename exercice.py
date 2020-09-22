@@ -16,13 +16,13 @@ def use_prefixes() -> List[str]:
 
     word_list = []
     for c in prefixes :
-        word_list.append(prefixes[c] + suffixe)
+        word_list.append(c + suffixe)
     return word_list
 
 
 def prime_integer_summation() -> int:
     #somme
-    
+
     
     return 0
 
