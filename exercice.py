@@ -17,7 +17,7 @@ def use_prefixes() -> List[str]:
     word_list = []
     for c in prefixes :
         word_list.append(prefixes[c] + suffixe)
-    return [""]
+    return 
 
 
 def prime_integer_summation() -> int:
