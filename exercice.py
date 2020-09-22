@@ -15,8 +15,8 @@ def use_prefixes() -> List[str]:
     prefixes, suffixe = 'JKLMNOPQ', 'ack'
 
     word_list = []
-    for pre in prefixes :
-        word_list.append(prefixes[pre] + suffixe)
+    for c in prefixes :
+        word_list.append(prefixes[c] + suffixe)
     return [""]
 
 
