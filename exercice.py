@@ -24,7 +24,7 @@ def prime_integer_summation() -> int:
     #somme
     for i in range(2, 100, 1) :
         for j in range(2, i, 1) :
-            if i
+            if i%
     
     return 0
 
