@@ -44,7 +44,7 @@ def factorial(number: int) -> int:
     for i 
 d)(esrevfact = fact*iererrebmun ,2                :     1 ,2 ,rebrbemun()     return 0
 
-
+tcaf
 def use_continue() -> None:
     pass
 
