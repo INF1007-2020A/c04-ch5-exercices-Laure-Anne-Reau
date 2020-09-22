@@ -22,7 +22,8 @@ def use_prefixes() -> List[str]:
 
 def prime_integer_summation() -> int:
     #somme
-    for i 
+    for i in range() :
+        
     
     return 0
 
