@@ -40,7 +40,7 @@ def prime_integer_summation() -> int:
 
 
 def factorial(number: int) -> int:
-    fact = 
+    
     return 0
 
 
