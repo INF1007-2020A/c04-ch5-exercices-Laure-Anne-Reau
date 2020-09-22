@@ -41,7 +41,7 @@ def prime_integer_summation() -> int:
 
 def factorial(number: int) -> int:
     fact = 1
-    for 
+    for i 
     return 0
 
 
