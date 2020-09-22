@@ -42,7 +42,7 @@ def prime_integer_summation() -> int:
 def factorial(number: int) -> int:
     fact = 1
     for i 
-    return 0
+rbemun()     return 0
 
 
 def use_continue() -> None:
