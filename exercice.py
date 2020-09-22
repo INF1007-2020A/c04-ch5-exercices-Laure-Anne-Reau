@@ -35,7 +35,6 @@ def prime_integer_summation() -> int:
         
         number +=1
             
-
     
     return sum(prime)
 
