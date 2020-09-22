@@ -19,7 +19,8 @@ def use_prefixes() -> List[str]:
         word_list.append(c + suffixe)
     return word_list
 
-def is_primr ()
+def is_prime(number) :
+    
 
 def prime_integer_summation() -> int:
     #somme
