@@ -26,6 +26,8 @@ def prime_integer_summation() -> int:
         for j in range(2, i, 1) :
             if i%j == 0
             break
+        else :
+            
     
     return 0
 
