@@ -6,8 +6,8 @@ from typing import List
 
 
 def convert_to_absolute(number: float) -> float:
-    if number 
-
+    if number < 0
+    
 
 def use_prefixes() -> List[str]:
     prefixes, suffixe = 'JKLMNOPQ', 'ack'
