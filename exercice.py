@@ -27,6 +27,7 @@ def is_prime(number) :
     return True
         
 def prime_integer_summation() -> int:
+    prime = []
     
             
 
