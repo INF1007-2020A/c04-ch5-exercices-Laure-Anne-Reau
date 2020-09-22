@@ -31,7 +31,7 @@ def prime_integer_summation() -> int:
     while len(prime) < 100:
         if is_prime(number) :
             prime.append(number)
-            
+        
             
 
     
