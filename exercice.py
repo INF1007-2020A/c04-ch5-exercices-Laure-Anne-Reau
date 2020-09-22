@@ -9,7 +9,7 @@ def convert_to_absolute(number: float) -> float:
     if number < 0 :
         return (- number)
     else
-    
+        return (number)
 
 def use_prefixes() -> List[str]:
     prefixes, suffixe = 'JKLMNOPQ', 'ack'
