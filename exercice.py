@@ -20,7 +20,7 @@ def use_prefixes() -> List[str]:
     return word_list
 
 def is_prime(number) :
-    for i in range(2, 100)
+    for i in range(2, 100, 1)
 
 def prime_integer_summation() -> int:
     #somme
