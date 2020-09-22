@@ -21,7 +21,7 @@ def use_prefixes() -> List[str]:
 
 def is_prime(number) :
     for i in range(2, number//2, 1) :
-        if number % i ==
+        if number % i == 
 
 def prime_integer_summation() -> int:
     #somme
