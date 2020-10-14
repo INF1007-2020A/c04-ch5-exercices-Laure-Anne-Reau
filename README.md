@@ -9,15 +9,16 @@
 
 
 
+
 ## Résultats
 Score | Critères
 --- | ---
 1/1 | Conversion en valeur absolue
-0/1 | Calcul de la factorielle
+1/1 | Calcul de la factorielle
 1/1 | Utilisation des préfixes
-1/1 | Calcul de la sommation
-0/1 | Vérification de l'acceptance des groupes d'âges
-3/5 | **Total**
+0/1 | Calcul de la sommation
+1/1 | Vérification de l'acceptance des groupes d'âges
+4/5 | **Total**
 
 [Voir détails](./logs/tests_results.txt) | [Rafraîchir](../../)
 # Exercices en vrac (chapitre 5)
